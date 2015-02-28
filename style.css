@@ -1,0 +1,17 @@
+.container {
+	background-color: #CCCCCC;
+	width: 400px;
+	height: 400px;
+	margin: auto;
+	padding: 20px;
+}
+
+.box {
+	background-color: #B0FFFF;
+	display: inline;
+	width: 100px;
+	height: 100px;
+	float: left;
+	/*margin: 0;
+	border: 0;*/
+}
